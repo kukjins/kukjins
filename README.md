@@ -2,7 +2,7 @@
 - 👀 I’m interested in visual studio by VB
 - 🌱 I’m currently learning VB
 - 💞️ I’m looking to collaborate on VB
-- 📫 How to reach me 
+- 📫 How to reach me kukjins@gmail.com
 
 <!---
 kukjins/kukjins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
